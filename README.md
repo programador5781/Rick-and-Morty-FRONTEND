@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Deployed in
-https://app.netlify.com/sites/rick-and-morty-proyecto-personal/settings/general
+https://rick-and-morty-proyecto-personal.netlify.app/
 
 ## Available Scripts
 
